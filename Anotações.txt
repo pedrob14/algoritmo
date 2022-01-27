@@ -1,0 +1,13 @@
+- Aula 2
+    - var
+        - identificador: tipo
+        
+        Ex:  msg : caractere
+        
+        Tipos: inteiro, real, caractere, logico
+        
+        - Atribuição em uma variável
+        
+        É possível iniciar uma variável com um valor
+        
+        Ex: msg <- “Olá, Mundo!”
