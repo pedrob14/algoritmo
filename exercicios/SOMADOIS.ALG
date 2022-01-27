@@ -13,5 +13,7 @@ escreval("Digite o segundo número:")
 leia(N2)
 soma <- N1 + N2
 escreval("A soma dos dois números é de: ", soma)
+// Ou tirar a variável soma e colocar:
+// escreval("A soma dos dois números é de: ", N1 + N2)
 
 Fimalgoritmo
