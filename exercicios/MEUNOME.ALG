@@ -1,0 +1,17 @@
+Algoritmo "MeuNome"
+// Disciplina  :  [Linguagem e Lógica de Programação] 
+// Professor   : Antonio Carlos Nicolodi 
+// Descrição   : Aqui você descreve o que o programa faz! (função)
+// Autor(a)    : Nome do(a) aluno(a)
+// Data atual  : 27/01/2022
+Var
+Nome: Caracter
+
+
+Inicio
+// Seção de Comandos, procedimento, funções, operadores, etc... 
+  escreval("Qual é seu nome?")
+  leia(Nome)
+  Escreval(" Bem-vindo ", Nome)
+
+Fimalgoritmo
