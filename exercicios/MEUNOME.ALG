@@ -1,4 +1,6 @@
 Algoritmo "MeuNome"
+// Disciplina  :  [Linguagem e Lógica de Programação] 
+// Professor   : Antonio Carlos Nicolodi 
 // Descrição   : Escrever Bem-vindo e o nome da pessoa na tela
 // Autor(a)    : Pedro
 // Data atual  : 27/01/2022
