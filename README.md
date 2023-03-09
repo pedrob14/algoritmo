@@ -1,4 +1,4 @@
-"# algoritmo" 
-"# algoritmo" 
-"# algoritmo" 
-"#algoritmo" 
+Curso de algoritmo do Curso em Video
+
+
+
